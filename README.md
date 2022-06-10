@@ -7,8 +7,6 @@ from: Kyiv, Ukraine
 education: ["Self-taught programmer", "Student of Business and Managment"]
 
 fields_of_interests: ["Web development", "Problem solving using programming"]
-known_technologies: ["React", "Postgresql", "Express.js/Node.js", "HTML/CSS", "JavaScript", "Git"]
-currently_learning: ["Relational databases"]
 hobbies: ["Basketball", "Good movies", "Gaming", "Reading", "Tattooing"]
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=4upakabra13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
