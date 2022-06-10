@@ -10,7 +10,7 @@ fields_of_interests: ["Web development", "Problem solving using programming"]
 hobbies: ["Basketball", "Good movies", "Gaming", "Reading", "Tattooing"]
 ```
 
-<h1 style='color:#e5289e'>Github Stats</h1>
+<h1 style='color:red'>Github Stats</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4upakabra13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4upakabra13&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
