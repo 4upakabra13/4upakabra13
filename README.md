@@ -11,6 +11,7 @@ known_technologies: ["React", "Postgresql", "Express.js/Node.js", "HTML/CSS", "J
 currently_learning: ["Relational databases"]
 hobbies: ["Basketball", "Good movies", "Gaming", "Reading", "Tattooing"]
 ```
+[![trophy](https://github-profile-trophy.vercel.app/4upakabra13=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
