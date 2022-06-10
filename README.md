@@ -11,6 +11,7 @@ hobbies: ["Basketball", "Good movies", "Gaming", "Reading", "Tattooing"]
 ```
 
 <h1>Github Stats</h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=4upakabra13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4upakabra13&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
