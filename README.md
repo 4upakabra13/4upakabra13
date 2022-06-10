@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-**4upakabra13/4upakabra13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Nikita Utkin
+located_in: Wroclaw, Poland
+from: Kyiv, Ukraine
+education: ["Self-taught programmer", "Student of Business and Managment"]
+
+fields_of_interests: ["Web development", "Problem solving using programming"]
+known_technologies: ["React", "Postgresql", "Express.js/Node.js", "HTML/CSS", "JavaScript", "Git"]
+currently_learning: ["Relational databases"]
+hobbies: ["Basketball", "Good movies", "Gaming", "Reading", "Tattooing"]
+```
 
 Here are some ideas to get you started:
 
